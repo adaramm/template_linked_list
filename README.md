@@ -1,6 +1,9 @@
 # Plantilla de Lista Enlazada Genérica
 
-Implementación básica de una lista enlazada genérica en C++.
+Implementación básica de una lista enlazada genérica en C.
+
+Es necesario instalar check
+pacman -S mingw-w64-x86_64-check
 
 ## Instrucciones
 
